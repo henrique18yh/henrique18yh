@@ -3,7 +3,7 @@
 
 # 👩🏻‍💻 João Henrique
 
-Me chamo João Henrique, tenho 17 anos e sou de São Paulo. Estou cursando o ensino médio. Atualmente, estou cursando o Programa python na Fabrica de Programadores em Santana de Parnaíba, sou amante de games e programação.
+Me chamo João Henrique, tenho 18 anos e sou de São Paulo. Estou cursando o ensino médio. Atualmente, estou cursando o Programa python na Fabrica de Programadores em Santana de Parnaíba, sou amante de games e programação.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    # 🌐 Socials:
 <a href="https://www.instagram.com/_.henriiqueehs_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
