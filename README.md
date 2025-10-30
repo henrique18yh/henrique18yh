@@ -1,9 +1,13 @@
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Henrique;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
-</p>
+ </p>
 
-<h1>João Henrique <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc0d2hra3d3NG01a3RkeGEza2FxNXBzMXVrMmtjNTg1eHRscGtxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" class="welcome-gif" /></h1>
+ 
+ <h1>João Henrique
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc0d2hra3d3NG01a3RkeGEza2FxNXBzMXVrMmtjNTg1eHRscGtxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="120" style="vertival-align: middle;"/></h1>
+ 
+
 
 Olá! Meu nome é João Henrique, tenho 18 anos e moro em São Paulo. Estou terminando o Ensino Médio e atualmente participo do Programa Python na Fábrica de Programadores, em Santana de Parnaíba.
 
