@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heloo+Iam+João+Welcome+to+my+GitHub!!)](https://git.io/typing-svg)
-
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Henrique;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
+</p>
 
 <h1>João Henrique <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc0d2hra3d3NG01a3RkeGEza2FxNXBzMXVrMmtjNTg1eHRscGtxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" class="welcome-gif" /></h1>
 
@@ -14,10 +16,10 @@ Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempr
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    # 🌐 Socials:
-<div align="center"
- <img src="https://github.com/user-attachments/assets/919daa78-521f-4792-8bbf-7d49d04ef5e2" width="180" target="_blank">
-  </a> 
- <div> 
+
+<div align="center">
+  <a href="https://www.instagram.com/_.henriiqueehs_/?next=%2F" target="_blank">
+    <img src="https://github.com/user-attachments/assets/45523244-87ee-49c0-9b22-095f0b822f40" width="180" target="_blank">
     
 <div align="center">
   <a href="https://www.instagram.com/_.henriiqueehs_/?next=%2F" target="_blank">
