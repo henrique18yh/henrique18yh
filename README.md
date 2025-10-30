@@ -1,30 +1,38 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heloo+Iam+João+Welcome+to+my+GitHub!!)](https://git.io/typing-svg)
 
 
-# 👩🏻‍💻 João Henrique
+<h1>João Henrique <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc0d2hra3d3NG01a3RkeGEza2FxNXBzMXVrMmtjNTg1eHRscGtxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" class="welcome-gif" /></h1>
 
-Me chamo João Henrique, tenho 18 anos e sou de São Paulo. Estou cursando o ensino médio. Atualmente, estou cursando o Programa python na Fabrica de Programadores em Santana de Parnaíba, sou amante de games e programação.
+Olá! Meu nome é João Henrique, tenho 18 anos e moro em São Paulo. Estou terminando o Ensino Médio e atualmente participo do Programa Python na Fábrica de Programadores, em Santana de Parnaíba.
+
+Sou uma pessoa que sempre gostou de tecnologia e jogos, e foi por causa disso que comecei a me interessar por programação. Estou aprendendo Python e, aos poucos, conhecendo mais sobre o mundo do desenvolvimento de software.
+
+Apesar de estar no início da minha jornada, tenho muita vontade de aprender, crescer profissionalmente e conquistar meu primeiro emprego na área de tecnologia. Meu objetivo é continuar estudando, praticando e me desenvolvendo para me tornar um bom programador no futuro.
+
+Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempre disposto a aprender coisas novas.
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    # 🌐 Socials:
-<a href="https://www.instagram.com/_.henriiqueehs_/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center"
+ <img src="https://github.com/user-attachments/assets/919daa78-521f-4792-8bbf-7d49d04ef5e2" width="180" target="_blank">
+  </a> 
+ <div> 
+    
+<div align="center">
+  <a href="https://www.instagram.com/_.henriiqueehs_/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="180" target="_blank">
+ 
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="132" target="_blank">
+  </a> 
+ <div> 
+</div>
 
 
-<a>
-    <a href="https://github.com/henrique18yh">
-        <img 
-            alt="me segue no GitHub" 
-            title="Me segue" 
-            src="https://custom-icon-badges.demolab.com/github/followers/henrique18yh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=wehit"
-        />
-    </a> 
-    <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/henrique18yh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-     
 
-   
 
+---------------------------------
 <p align="center">
     <img src="https://skillicons.dev/icons?i=htmx,html,css,js,py,flutter,vscode,visualstudio,&perline=4 " />
   </a>
