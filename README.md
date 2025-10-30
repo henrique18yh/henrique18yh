@@ -18,6 +18,10 @@ Apesar de estar no início da minha jornada, tenho muita vontade de aprender, cr
 Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempre disposto a aprender coisas novas.
 
 
+<div align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMydTBjZ2oyaGRqdmsxamU2MjAxdzZjOXdvNDNtOXF0ZWM3NXMwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LDBuYzAwu8L4I/giphy.gif" width = 300 alt="Suits">
+</div>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    # 🌐 Socials:
 
@@ -39,6 +43,9 @@ Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempr
 
 
 ---------------------------------
+
+ <h1> TECNOLOGIA E FERRAMENTAS <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252NjUzd3d4YWc1ODNneWljZGliejB1Z210Z281Y201eW55dGthdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="60" style="vertical-align: middle;" /></h1>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=htmx,html,css,js,py,flutter,vscode,visualstudio,&perline=4 " />
   </a>
@@ -46,16 +53,9 @@ Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempr
 <br/>
 <br/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph.svg">
-</picture>
+ <h1> MINHA ESTATISTICA <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVsNmFpbXFhcTBlb2p1b21kZDEyc2w5b2pxMjhjcmg0dmZuYXdvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" style="vertical-align: middle;" /></h1>
 
 
-
-### 📊 Estatísticas
 
 <p>
   <img 
@@ -73,5 +73,12 @@ Sou curioso, dedicado e responsável, gosto de trabalhar em equipe e estou sempr
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique18yh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
+
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henrique18yh/henrique18yh/output/pacman-contribution-graph.svg">
+</picture>
 
